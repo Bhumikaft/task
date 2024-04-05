@@ -1,0 +1,31 @@
+{
+ "attach_print": 0,
+ "channel": "Email",
+ "condition": "",
+ "creation": "2024-04-03 15:58:05.660890",
+ "days_in_advance": 0,
+ "docstatus": 0,
+ "doctype": "Notification",
+ "document_type": "Product Feedback",
+ "enabled": 1,
+ "event": "New",
+ "idx": 0,
+ "is_standard": 1,
+ "message": "Add your message here",
+ "modified": "2024-04-03 16:13:55.191356",
+ "modified_by": "Administrator",
+ "module": "Page Testing",
+ "name": "jggjgj",
+ "owner": "Administrator",
+ "recipients": [
+  {
+   "receiver_by_document_field": "email"
+  }
+ ],
+ "send_system_notification": 1,
+ "send_to_all_assignees": 1,
+ "sender": "Bhumikad878",
+ "sender_email": "bhumika.cs2020@mpgi.edu.in",
+ "set_property_after_alert": "",
+ "subject": "Product Feedback  {{doc.product_name}}"
+}
